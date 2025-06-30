@@ -19,3 +19,6 @@ sudo python3 dns_sniffer.py \
   --targetip <target IP> \
   --routerip <router IP> \
   --iface <network interface>
+or
+
+python dns_sniffer.py --network 0.x.x.0/00 --iface eth0 --routerip 0.x.x.0
