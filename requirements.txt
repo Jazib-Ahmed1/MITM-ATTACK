@@ -1,0 +1,4 @@
+scapy>=2.5.0,<3
+colorama>=0.4.6,<1
+pyfiglet>=0.8,<1
+mac-vendor-lookup>=0.1.11,<1
