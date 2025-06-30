@@ -22,3 +22,16 @@ sudo python3 dns_sniffer.py \
 or
 
 python dns_sniffer.py --network 0.x.x.0/00 --iface eth0 --routerip 0.x.x.0
+
+📦 Requirements
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+📜 Disclaimer
+This tool is intended for authorized network testing and educational purposes only.
+
+❌ Do not use this tool on networks you do not own or have explicit permission to test.
+✅ Always perform ethical hacking with proper legal consent.
